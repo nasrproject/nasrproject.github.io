@@ -31,6 +31,10 @@
 					</div>
 			</div>
 
+			<noscript>
+					<div class="row"><div class="jumbotron">.متصفحك يتطلب جافا سكريبت، يرجى تمكين جافا سكريبت لعرض محتوى هذه الصفحة. شكرا لك.</div></div>
+			</noscript>
+
 			<div class="row" id="auth">
       	<div class="jumbotron">
 					<h2>صفحة خاصة</h2>
@@ -56,11 +60,7 @@
 
 		</div>
 
-    <script src="js/jquery-1.11.3.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-   	<script src="js/sjcl.js"></script>
-		<script src="js/jquery.countdown.js"></script>
-		<script src="js/jquery.storageapi.js"></script>
-   	<script src="js/script.js"></script>
+    <script src="js/all.js"></script>
+
   </body>
 </html>
