@@ -53,8 +53,12 @@ function counter_clock() {
 
 function trigger_enter_submit() {	$FD(document).bind('keypress', function(e) { if(e.keyCode==13){ $FD('#open').trigger('click'); } }); }
 
+function domain_check() {
+	console.log(location.hostname);
+	console.log(document.domain);
+}
 
-
+$FD(document).ready(domain_check);
 $FD(document).ready(check_passphrase);
 $FD(document).ready(trigger_enter_submit);
 //$FD(document).ready(counter_clock);
