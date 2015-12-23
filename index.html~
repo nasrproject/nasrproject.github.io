@@ -9,9 +9,9 @@
 
     <!-- Bootstrap -->
 
-    <link href="/css/bootstrap-arabic.min.css" rel="stylesheet">
-    <link href="/css/bootstrap-arabic-theme.min.css" rel="stylesheet">
-		<link href="/css/custom.css" rel="stylesheet">
+    <link href="/nasr/css/bootstrap-arabic.min.css" rel="stylesheet">
+    <link href="/nasr/css/bootstrap-arabic-theme.min.css" rel="stylesheet">
+		<link href="/nasr/css/custom.css" rel="stylesheet">
 
     <!--[if lt IE 9]>
       <script src="js/html5shiv.min.js"></script>
@@ -55,11 +55,11 @@
 
 		</div>
 
-    <script src="/js/jquery-1.11.3.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-   	<script src="/js/sjcl.js"></script>
-		<script src="/js/jquery.countdown.js"></script>
-		<script src="/js/jquery.storageapi.js"></script>
-   	<script src="/js/script.js"></script>
+    <script src="/nasr/js/jquery-1.11.3.js"></script>
+    <script src="/nasr/js/bootstrap.min.js"></script>
+   	<script src="/nasr/js/sjcl.js"></script>
+		<script src="/nasr/js/jquery.countdown.js"></script>
+		<script src="/nasr/js/jquery.storageapi.js"></script>
+   	<script src="/nasr/js/script.js"></script>
   </body>
 </html>
